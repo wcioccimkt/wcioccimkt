@@ -1,0 +1,4 @@
+# by Mkt Digital(C)- 2024
+User-agent: Googlebot
+allow: /
+
